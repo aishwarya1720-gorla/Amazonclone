@@ -1,0 +1,166 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, sans-serif;;
+}
+#navigation{
+    height:6vh;
+    width:100%;
+    background-color: #00050d;
+   display: flex;
+   justify-content: center;
+   padding-top: 5px;
+}
+.image12{
+    height:27px;
+    width:200px;
+}
+img[alt="logo2"]{
+width: 120px;
+height: 25px;
+}
+.navig{
+    width: 500px;
+    /* display: flex; */
+}
+.list{
+    width:600px;
+    display:flex; 
+    justify-content: space-between;
+     font-size: 1.3rem;
+     list-style-type: none;
+}
+.link01{
+  fill:#aaaaaa;
+}
+.link0{
+    text-decoration: none;
+    color: #aaaaaa;
+}
+#home{
+    width: 86px;
+    height: 38px;
+}
+.con{
+    height:100vh;
+    background-position: right top;
+    background-size: cover;
+    background-repeat: no-repeat; 
+}
+.text{
+    color:#fff;
+    padding:30px 0px 0px 30px;
+}
+.text1-1{
+    margin-bottom:15px;
+    font-size: 2.5rem;
+    line-height: 2.8rem;
+}
+.text1-2{
+    margin-bottom:50px;
+    font-size: 1.3rem;
+    line-height: 1.6rem;
+}
+.button{
+    background-color:#0F79AF ;
+    font-weight: bold;
+   height:50px;
+   width: 300px;
+   font-size: 0.5cm;
+    padding:3px 30px 3px 30px;
+    color:white;
+    border-radius: 2px;
+}
+#primeone{
+  
+    background-image: linear-gradient(to right, #000 40%, transparent 58%), url(https://m.media-amazon.com/images/G/31/AmazonVideo/2019/MLP.jpg);
+    background-color: #000;
+}
+#primetwo{
+    background-image: linear-gradient(to right, #000 40%, transparent 58%), url(https://m.media-amazon.com/images/G/31/AmazonVideo/2021/X-site/MLP/TVOD/TVOD_MLP_Right.jpg);
+    
+    background-color: #000;
+}
+#primethree{
+    height:100vh;
+    width:100%;
+    position: relative;
+}
+#text2{
+    height:400px;
+    width:40%;
+    /* border:solid; */
+    margin: 10vh 0vh 0vh 11vh;
+   
+}
+#head1{
+    width:511.66px;
+    height: 110px;
+    /* font-size: 44.8px;
+    font-weight: 450; */
+    /* border: solid; */
+    font-size: 2.8rem;
+    line-height: 3.1rem;
+}
+.text3{
+    width:511.66px;
+    height: 122.17px;
+    /* border:solid; */
+    /* font-size: 24px; */
+    margin-top: 5vh;
+    font-size: 1.5rem;
+    line-height: 1.8rem;
+    font-family: "Amazon Ember", Arial, sans-serif;;
+}
+.images1{
+  height:530px;
+  width: 50%;
+  /* border:solid; */
+  display: flex;
+  flex-wrap: wrap;
+  position: absolute;
+  right:48px;
+  top:10px
+}
+.image1{
+    width: 183px;
+    height: 126px;
+    /* border: solid; */
+   
+}
+#last{
+    height:150px;
+    width:100%;
+    background-color:#222222 ;
+  
+}
+.logo1{
+    display: flex;
+    justify-content: center;
+}
+.link1{
+    height: 19px;
+    width:350px;
+    /* border: #fff solid; */
+   padding-left: 200px;
+   padding-right: 200px;
+   margin-left: 260px;
+   margin-top: 10px;
+}
+.link1-{
+    text-decoration: none;
+    color:#79b8f3;
+}
+img[alt="logo"]{
+    width:109px;
+    height: 32px;
+  margin-top: 30px;
+}
+.copy{
+    color: #8197a4;
+    /* border:solid #fff; */
+    width:500px;
+    margin-top: 10px;
+    text-align: center;
+    margin-left: 370px;
+}
